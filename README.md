@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Linjing Shao
+**USF email address**:  lshao@dons.usfca.edu
